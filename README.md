@@ -10,4 +10,4 @@ Hi, I'm Adnane Guennach, a passionate software developer with a strong interest 
 * ✉️  You can contact me at [adnaneguennachh@gmail.com](mailto:adnaneguennachh@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/aguennac" alt="aguennac's 42 stats" /></a>
+<!-- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/aguennac" alt="aguennac's 42 stats" /></a> -->
