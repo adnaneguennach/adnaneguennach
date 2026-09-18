@@ -1,13 +1,30 @@
-Hi 👋 My name is Adnane Guennach
-================================
+Adnane Guennach
+Full Stack Software Engineer | AI & Data Science
+I am a software developer based in Rabat, Morocco, with a strong focus on building scalable, efficient web applications and integrating intelligent automation. I specialize in modern JavaScript and TypeScript ecosystems, PHP, and Python, while actively expanding my expertise in system-level programming and data science.
 
-Web Developer
--------------
+Currently, I am pursuing a State Engineering Degree in AI and Data Science and studying at the 1337 Coding School (42 Network) at UM6P. This dual focus allows me to bridge the gap between high-level web architecture and low-level system efficiency.
 
-Hi, I'm Adnane Guennach, a passionate software developer with a strong interest in building innovative and efficient applications. I specialize in Javascript, PHP, React, Node.js, Next.js, Laravel, MongoDb, MySQL, Express.js, but I’m always excited to explore new technologies and frameworks. I believe in the power of open-source contributions and love collaborating with developers from around the world to create impactful solutions.
+What I am currently focused on
+Architecting production-ready full-stack platforms using Next.js, React, and Node.js.
 
-* 🌍  I'm based in Rabat
-* ✉️  You can contact me at [adnaneguennachh@gmail.com](mailto:adnaneguennachh@gmail.com)
-* 🤝  I'm open to collaborating on interesting projects
+Building automated enterprise workflows and CRM integrations leveraging AI tools (Retell AI, RAG architectures) and complex API orchestrations (Zoom, Infobip, Zapier).
 
-<!-- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/aguennac" alt="aguennac's 42 stats" /></a> -->
+Developing system-level C applications focused on multithreading, process synchronization, and strict memory management.
+
+Exploring data analysis and machine learning workflows using Python, NumPy, and Pandas.
+
+Technical Arsenal
+Languages: JavaScript, TypeScript, Python, PHP, C
+
+Frontend: React.js, Next.js, Tailwind CSS, Bootstrap, jQuery
+
+Backend: Node.js, Express.js, Laravel
+
+Databases: MongoDB, MySQL
+
+Infrastructure & Tools: Docker, AWS, Git/GitLab, BullMQ, RabbitMQ, System Administration
+
+Let's Connect
+I believe in the power of open-source software and enjoy collaborating with developers to create impactful solutions. I am always open to discussing interesting technical challenges or project collaborations.
+
+Contact: adnaneguennachh@gmail.com
